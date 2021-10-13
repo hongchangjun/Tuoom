@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Tuoom.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{EAAA0116-094B-4356-8BE4-715E5C027A64}</UniqueIdentifier>
+      <UniqueIdentifier>{5CFA68B1-9095-42E2-8683-BCF94ECF8868}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Tuoom.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{17402CB9-61AF-4B91-A774-4D6597952F1E}</UniqueIdentifier>
+      <UniqueIdentifier>{79C7AD2E-70AF-4A73-9CBB-139A11D35967}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,20 +27,20 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Tuoom">
-      <UniqueIdentifier>{782ADE01-B0A7-4A7F-9837-BFF2B93B7459}</UniqueIdentifier>
+      <UniqueIdentifier>{1219CFB6-3B20-4436-8636-01EDF053725E}</UniqueIdentifier>
     </Filter>
-    <None Include="..\..\Source\Tuoom\Tuoom.Build.cs">
-      <Filter>Source\Tuoom</Filter>
-    </None>
-    <ClCompile Include="..\..\Source\Tuoom\Tuoom.cpp">
-      <Filter>Source\Tuoom</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\Source\Tuoom\ProbFXObj.cpp">
       <Filter>Source\Tuoom</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Tuoom\ProbFXObj.h">
       <Filter>Source\Tuoom</Filter>
     </ClInclude>
+    <None Include="..\..\Source\Tuoom\Tuoom.Build.cs">
+      <Filter>Source\Tuoom</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Tuoom\Tuoom.cpp">
+      <Filter>Source\Tuoom</Filter>
+    </ClCompile>
     <ClInclude Include="..\..\Source\Tuoom\Tuoom.h">
       <Filter>Source\Tuoom</Filter>
     </ClInclude>
