@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Tuoom.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{57876D88-D2A7-4C61-9694-6E86A70E71A0}</UniqueIdentifier>
+      <UniqueIdentifier>{00C1CA42-7A18-4DD5-A2D8-EFE7D0B38002}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Tuoom.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{5BADE5E5-7921-49CE-9503-4B8C506F4276}</UniqueIdentifier>
+      <UniqueIdentifier>{EDBBA557-D4B5-473A-8356-B0CC33C783A8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,22 +27,40 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Tuoom">
-      <UniqueIdentifier>{7F255A34-6B39-4007-A304-0E03B613C67E}</UniqueIdentifier>
+      <UniqueIdentifier>{BA54FBCC-2825-433B-A1E2-AA2C4DF0737B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Tuoom\Tuoom.Build.cs">
       <Filter>Source\Tuoom</Filter>
     </None>
-    <ClInclude Include="..\..\Source\Tuoom\Tuoom.h">
-      <Filter>Source\Tuoom</Filter>
-    </ClInclude>
     <ClCompile Include="..\..\Source\Tuoom\Tuoom.cpp">
+      <Filter>Source\Tuoom</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Tuoom\ProbFXObj.cpp">
       <Filter>Source\Tuoom</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Tuoom\ProbFXObj.h">
       <Filter>Source\Tuoom</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\Tuoom\ProbFXObj.cpp">
+    <ClInclude Include="..\..\Source\Tuoom\Tuoom.h">
+      <Filter>Source\Tuoom</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tuoom\WJ_RoomPoster.cpp">
       <Filter>Source\Tuoom</Filter>
     </ClCompile>
+    <ClInclude Include="..\..\Source\Tuoom\WJ_RoomPoster.h">
+      <Filter>Source\Tuoom</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tuoom\WJ_TuoomGameInstance.cpp">
+      <Filter>Source\Tuoom</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tuoom\WJ_TuoomGameInstance.h">
+      <Filter>Source\Tuoom</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tuoom\WJ_VJingTable.cpp">
+      <Filter>Source\Tuoom</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tuoom\WJ_VJingTable.h">
+      <Filter>Source\Tuoom</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
